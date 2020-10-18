@@ -1,4 +1,4 @@
-# Neural-Style-Transfer
+# Art Generation with Neural Style Transfer
 
 Simple program to implement the neural style transfer algorithm and Generate novel artistic images using the algorithm.
 
