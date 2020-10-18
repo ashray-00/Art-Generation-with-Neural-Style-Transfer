@@ -11,4 +11,3 @@ $ wget https://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat
 You should see something the image presented below on the right:
 
 ![Generated_image](images/louvre_generated.png)
-# Neural-Style-Transfer
